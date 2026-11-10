@@ -1,0 +1,5 @@
+.venv/
+.env
+threads.json
+__pycache__/
+.pytest_cache/
